@@ -28,7 +28,7 @@ header h1{
     font-family: 'Times New Roman', Times, serif;
     padding-top: 50px;
     font-variant: small-caps;   /*letras maiúsculas*/
-    font-size: 6vw;
+    font-size: 7vw;
 }
 header p{
     padding-bottom: 50px;
@@ -47,7 +47,7 @@ section{
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--font3);
-    font-size: 3vw;
+    font-size: 5vw;
 }
 section > p{
     padding-bottom: 2em;
@@ -73,11 +73,11 @@ section > p{
 section#img01{
 background-image:url('../imagens/background001.jpg');
 background-position: right center;
-background-size: cover;
+background-size: auto;
 }
 section#img02{
     background-image: url('../imagens/background002.jpg');
-    background-size: cover;
+    background-size: auto;
 
 }
 
