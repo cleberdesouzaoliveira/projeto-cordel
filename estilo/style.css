@@ -47,7 +47,7 @@ section{
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--font3);
-    font-size: 3vw;
+    font-size: 5vw;
 }
 section > p{
     padding-bottom: 2em;
@@ -72,12 +72,13 @@ section > p{
 }
 section#img01{
 background-image:url('../imagens/background001.jpg');
-background-position: center;
-background-size: cover;
+background-position: right;
+background-size: cover ;
+
 }
 section#img02{
     background-image: url('../imagens/background002.jpg');
-    background-position:center;
+    background-position:right;
     background-size: cover;
 
 }
@@ -87,6 +88,6 @@ footer{
     color: white;
     text-align: center;
     padding: 10px;
-    font-size: 1.5vw;
+    font-size: 2.5vw;
     font-family: 'Times New Roman', Times, serif;
 }
