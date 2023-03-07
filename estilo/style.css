@@ -47,7 +47,7 @@ section{
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--font3);
-    font-size: 5vw;
+    font-size: 2vw;
 }
 section > p{
     padding-bottom: 2em;
@@ -72,12 +72,13 @@ section > p{
 }
 section#img01{
 background-image:url('../imagens/background001.jpg');
-background-position: right center;
-background-size: auto;
+background-position: center;
+background-size: cover;
 }
 section#img02{
     background-image: url('../imagens/background002.jpg');
-    background-size: auto;
+    background-position:center;
+    background-size: cover;
 
 }
 
