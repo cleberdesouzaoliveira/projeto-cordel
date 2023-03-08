@@ -61,6 +61,7 @@ section > p{
     color: white;
     box-shadow: 6px 6px 13px rgba(0, 0, 0, 0.507);
     background-attachment: fixed;
+    max-width: 950px;
 }
 .imagem > p{
     background-color: rgba(0, 0, 0, 0.418);
@@ -78,7 +79,7 @@ background-size: cover ;
 }
 section#img02{
     background-image: url('../imagens/background002.jpg');
-    background-position:right center;
+    background-position: right center;
     background-size: cover;
 
 }
